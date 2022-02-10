@@ -1,0 +1,20 @@
+.modal{
+    width: 400px;
+    padding: 30px;
+    margin: 100px auto;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+
+.imagestyle{
+   
+        
+        background: url('1.jpg') no-repeat scroll center;
+        height: 90vh;
+        width: 100%;
+        background-size: cover;
+       
+      
+} 
